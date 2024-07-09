@@ -1,2 +1,2 @@
 # alx-backend-python
-# async
+# async method
